@@ -1,7 +1,8 @@
 C:\ORISWebApps\Training\MyAngular\DatingApp\API\bin\Debug\net7.0\appsettings.Development.json
 C:\ORISWebApps\Training\MyAngular\DatingApp\API\bin\Debug\net7.0\appsettings.json
-C:\ORISWebApps\Training\MyAngular\DatingApp\API\bin\Debug\net7.0\datingapp.db
+C:\ORISWebApps\Training\MyAngular\DatingApp\API\bin\Debug\net7.0\API.staticwebassets.runtime.json
 C:\ORISWebApps\Training\MyAngular\DatingApp\API\bin\Debug\net7.0\API.exe
+C:\ORISWebApps\Training\MyAngular\DatingApp\API\bin\Debug\net7.0\datingapp.db
 C:\ORISWebApps\Training\MyAngular\DatingApp\API\bin\Debug\net7.0\API.deps.json
 C:\ORISWebApps\Training\MyAngular\DatingApp\API\bin\Debug\net7.0\API.runtimeconfig.json
 C:\ORISWebApps\Training\MyAngular\DatingApp\API\bin\Debug\net7.0\API.dll
