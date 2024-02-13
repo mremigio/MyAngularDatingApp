@@ -20,6 +20,35 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "client", "client", "{728A29
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".angular", ".angular", "{8046AC58-10DC-4C5D-A23D-6292FD8C276C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "cache", "cache", "{730508A0-F4E2-4389-A884-DC81D16220AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "16.2.11", "16.2.11", "{FACCE2C9-A7E6-4BA0-A19E-AF343D27D9B2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".vscode", ".vscode", "{A99288B5-6A94-46D0-AF09-ED14384DD0D3}"
+	ProjectSection(SolutionItems) = preProject
+		client\.vscode\extensions.json = client\.vscode\extensions.json
+		client\.vscode\launch.json = client\.vscode\launch.json
+		client\.vscode\tasks.json = client\.vscode\tasks.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{96186518-BB95-4DB1-873B-8C4B0C24D25F}"
+	ProjectSection(SolutionItems) = preProject
+		client\src\favicon.ico = client\src\favicon.ico
+		client\src\index.html = client\src\index.html
+		client\src\main.ts = client\src\main.ts
+		client\src\styles.css = client\src\styles.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "app", "app", "{0A0EC951-E632-45D2-8EED-11A41E99FA0B}"
+	ProjectSection(SolutionItems) = preProject
+		client\src\app\app-routing.module.ts = client\src\app\app-routing.module.ts
+		client\src\app\app.component.css = client\src\app\app.component.css
+		client\src\app\app.component.html = client\src\app\app.component.html
+		client\src\app\app.component.spec.ts = client\src\app\app.component.spec.ts
+		client\src\app\app.component.ts = client\src\app\app.component.ts
+		client\src\app\app.module.ts = client\src\app\app.module.ts
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,6 +65,11 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{8046AC58-10DC-4C5D-A23D-6292FD8C276C} = {728A292C-E8EE-4966-919B-7B0ECA6F8605}
+		{730508A0-F4E2-4389-A884-DC81D16220AF} = {8046AC58-10DC-4C5D-A23D-6292FD8C276C}
+		{FACCE2C9-A7E6-4BA0-A19E-AF343D27D9B2} = {730508A0-F4E2-4389-A884-DC81D16220AF}
+		{A99288B5-6A94-46D0-AF09-ED14384DD0D3} = {728A292C-E8EE-4966-919B-7B0ECA6F8605}
+		{96186518-BB95-4DB1-873B-8C4B0C24D25F} = {728A292C-E8EE-4966-919B-7B0ECA6F8605}
+		{0A0EC951-E632-45D2-8EED-11A41E99FA0B} = {96186518-BB95-4DB1-873B-8C4B0C24D25F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3F91A275-4EF7-4DC8-81D9-9F2716B8D7F8}
