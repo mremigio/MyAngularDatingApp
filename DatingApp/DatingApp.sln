@@ -3,20 +3,41 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{189E9CD6-0148-4220-A583-1517ED255F9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API", "API\API.csproj", "{189E9CD6-0148-4220-A583-1517ED255F9E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "client", "client", "{728A292C-E8EE-4966-919B-7B0ECA6F8605}"
+	ProjectSection(SolutionItems) = preProject
+		client\.editorconfig = client\.editorconfig
+		client\.gitignore = client\.gitignore
+		client\angular.json = client\angular.json
+		client\package-lock.json = client\package-lock.json
+		client\package.json = client\package.json
+		client\README.md = client\README.md
+		client\tsconfig.app.json = client\tsconfig.app.json
+		client\tsconfig.json = client\tsconfig.json
+		client\tsconfig.spec.json = client\tsconfig.spec.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".angular", ".angular", "{8046AC58-10DC-4C5D-A23D-6292FD8C276C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{189E9CD6-0148-4220-A583-1517ED255F9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{189E9CD6-0148-4220-A583-1517ED255F9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{189E9CD6-0148-4220-A583-1517ED255F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{189E9CD6-0148-4220-A583-1517ED255F9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8046AC58-10DC-4C5D-A23D-6292FD8C276C} = {728A292C-E8EE-4966-919B-7B0ECA6F8605}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F91A275-4EF7-4DC8-81D9-9F2716B8D7F8}
 	EndGlobalSection
 EndGlobal
