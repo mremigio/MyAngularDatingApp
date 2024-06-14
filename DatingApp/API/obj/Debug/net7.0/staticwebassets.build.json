@@ -1,19 +1,11 @@
 {
   "Version": 1,
-  "Hash": "6XTnUIWPAPX6Yz1FZyd79pgY8vRYOaq1+SQJ+LPfIuM=",
+  "Hash": "bUm1vPqwZHJejLhtNIB7WgmMI8ngxypkYrDApg4MvgQ=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [
-    {
-      "Name": "API\\wwwroot",
-      "Source": "API",
-      "ContentRoot": "C:\\ORISWebApps\\Training\\MyAngular\\DatingApp\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "Pattern": "**"
-    }
-  ],
+  "DiscoveryPatterns": [],
   "Assets": []
 }
