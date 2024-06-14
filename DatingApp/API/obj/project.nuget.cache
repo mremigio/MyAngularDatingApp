@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gx4ytGYAq5vqPcNRgpmyjcTp3VSlRlBPGbmmLi3OSRcdb5n2UBU+BAAYZHm1bdSLxnILkXBLD+MzhY3L6ZFpaQ==",
+  "dgSpecHash": "d1RtpXiWtabkP3+gOlYBYiJqY6HB9H6Fn2Bnm7DwGRAtEzXkdCsbhGFxI9TtSN0GjS2nPDfRj8UVDFEF+wefPw==",
   "success": true,
-  "projectFilePath": "C:\\ORISWebApps\\Training\\MyAngularApp\\DatingApp\\API\\API.csproj",
+  "projectFilePath": "C:\\ORISWebApps\\Training\\MyAngular\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MilaRemigio\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\MilaRemigio\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
