@@ -1722,11 +1722,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ORISWebApps\\Training\\MyAngular\\DatingApp\\API\\API.csproj",
+      "projectUniqueName": "C:\\ORISWebApps\\Training\\MyAngularApp\\DatingApp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\ORISWebApps\\Training\\MyAngular\\DatingApp\\API\\API.csproj",
+      "projectPath": "C:\\ORISWebApps\\Training\\MyAngularApp\\DatingApp\\API\\API.csproj",
       "packagesPath": "C:\\Users\\MilaRemigio\\.nuget\\packages\\",
-      "outputPath": "C:\\ORISWebApps\\Training\\MyAngular\\DatingApp\\API\\obj\\",
+      "outputPath": "C:\\ORISWebApps\\Training\\MyAngularApp\\DatingApp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
@@ -1735,6 +1735,7 @@
       ],
       "configFilePaths": [
         "C:\\Users\\MilaRemigio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
@@ -1744,6 +1745,7 @@
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
