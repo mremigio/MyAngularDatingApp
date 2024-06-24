@@ -139,3 +139,8 @@ C:\ORISWebApps\Training\MyAngular\DatingApp\API\obj\Debug\net7.0\refint\API.dll
 C:\ORISWebApps\Training\MyAngular\DatingApp\API\obj\Debug\net7.0\API.pdb
 C:\ORISWebApps\Training\MyAngular\DatingApp\API\obj\Debug\net7.0\API.genruntimeconfig.cache
 C:\ORISWebApps\Training\MyAngular\DatingApp\API\obj\Debug\net7.0\ref\API.dll
+C:\ORISWebApps\Training\MyAngularApp\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\ORISWebApps\Training\MyAngularApp\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ORISWebApps\Training\MyAngularApp\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\ORISWebApps\Training\MyAngularApp\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\ORISWebApps\Training\MyAngularApp\DatingApp\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
