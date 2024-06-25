@@ -144,3 +144,6 @@ C:\ORISWebApps\Training\MyAngularApp\DatingApp\API\bin\Debug\net7.0\Microsoft.Id
 C:\ORISWebApps\Training\MyAngularApp\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
 C:\ORISWebApps\Training\MyAngularApp\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
 C:\ORISWebApps\Training\MyAngularApp\DatingApp\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ORISWebApps\Training\MyAngularApp\DatingApp\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\ORISWebApps\Training\MyAngularApp\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\ORISWebApps\Training\MyAngularApp\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll

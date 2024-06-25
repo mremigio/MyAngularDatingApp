@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "GIewQaR8rhn9+13+ed+nGlZEtB3s7Ap0kbQHcCw4kZLKmWRYjJBRyDQkJ5zF+eVh6X8QNYlj7kpc+NHDmDNXRQ==",
+  "dgSpecHash": "7up5AGqQTKhKPHgxTpL+AH6ofI4Ru4idwrq3/mSx+g/kDJd1M6ljSoyAFB02hwjyjS5K8s8svKNGspWIYbFfUA==",
   "success": true,
   "projectFilePath": "C:\\ORISWebApps\\Training\\MyAngularApp\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MilaRemigio\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\MilaRemigio\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.10\\microsoft.aspnetcore.authentication.jwtbearer.6.0.10.nupkg.sha512",
     "C:\\Users\\MilaRemigio\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
     "C:\\Users\\MilaRemigio\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\MilaRemigio\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.9\\microsoft.data.sqlite.core.7.0.9.nupkg.sha512",
@@ -29,6 +30,8 @@
     "C:\\Users\\MilaRemigio\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.24.0\\microsoft.identitymodel.abstractions.6.24.0.nupkg.sha512",
     "C:\\Users\\MilaRemigio\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.24.0\\microsoft.identitymodel.jsonwebtokens.6.24.0.nupkg.sha512",
     "C:\\Users\\MilaRemigio\\.nuget\\packages\\microsoft.identitymodel.logging\\6.24.0\\microsoft.identitymodel.logging.6.24.0.nupkg.sha512",
+    "C:\\Users\\MilaRemigio\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.10.0\\microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
+    "C:\\Users\\MilaRemigio\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.10.0\\microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
     "C:\\Users\\MilaRemigio\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.24.0\\microsoft.identitymodel.tokens.6.24.0.nupkg.sha512",
     "C:\\Users\\MilaRemigio\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\MilaRemigio\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
