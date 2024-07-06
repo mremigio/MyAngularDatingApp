@@ -21,11 +21,11 @@ export class NavComponent implements OnInit {
   getCurrentUser() {
     this.accountService.currentUser$.subscribe({
       next: user => {
-        //this.loggedIn = !!user
-        this.loggedIn = false;
-        if (user) {
-          this.loggedIn = true;
-        }
+        this.loggedIn = !!user;
+        //this.loggedIn = false;
+        //if (user) {
+        //  this.loggedIn = true;
+        //}
       },
       error: error => console.log(error)
       })
