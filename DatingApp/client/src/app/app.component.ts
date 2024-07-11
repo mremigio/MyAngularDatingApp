@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { HttpClient } from '@angular/common/http';
 import { AccountService } from './_services/account.service';
 import { User } from './_models/user';
 
@@ -8,15 +7,15 @@ import { User } from './_models/user';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
+
 export class AppComponent implements OnInit {
 
   title = 'Hi Georgie Porgie!!!';
-  users: any;
 
-  constructor(private http: HttpClient, private accountService: AccountService) { }
+  constructor(private accountService: AccountService) { }
 
   ngOnInit(): void {
-    this.getUsers();
+    //this.getUsers();
     this.setCurrentUser();
    
    }
@@ -28,14 +27,4 @@ export class AppComponent implements OnInit {
     this.accountService.setCurrentUser(user);
 
   }
-
-  getUsers() {
-    this.http.get('https://localhost:44386/api/Users').subscribe({
-      next: response => this.users = response,
-      error: error => console.log(error),
-      complete: () => console.log('Request has completed')
-
-    })
-  }
- 
 }
