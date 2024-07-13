@@ -80,6 +80,36 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "register", "register", "{EE
 		client\src\app\register\register.component.ts = client\src\app\register\register.component.ts
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "members", "members", "{85956929-C0D9-427E-8C36-ABCD032AD089}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "member-list", "member-list", "{65F0F03A-6B94-48DB-AE88-26C3F8468212}"
+	ProjectSection(SolutionItems) = preProject
+		client\src\app\members\member-list\member-list.component.css = client\src\app\members\member-list\member-list.component.css
+		client\src\app\members\member-list\member-list.component.html = client\src\app\members\member-list\member-list.component.html
+		client\src\app\members\member-list\member-list.component.ts = client\src\app\members\member-list\member-list.component.ts
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "member-detail", "member-detail", "{5A091D4E-9A92-4C9C-861B-AAE518313251}"
+	ProjectSection(SolutionItems) = preProject
+		client\src\app\members\member-detail\member-detail.component.css = client\src\app\members\member-detail\member-detail.component.css
+		client\src\app\members\member-detail\member-detail.component.html = client\src\app\members\member-detail\member-detail.component.html
+		client\src\app\members\member-detail\member-detail.component.ts = client\src\app\members\member-detail\member-detail.component.ts
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lists", "lists", "{5F01A0A1-1E1E-4A1A-A6FE-A3E3FB03413C}"
+	ProjectSection(SolutionItems) = preProject
+		client\src\app\lists\lists.component.css = client\src\app\lists\lists.component.css
+		client\src\app\lists\lists.component.html = client\src\app\lists\lists.component.html
+		client\src\app\lists\lists.component.ts = client\src\app\lists\lists.component.ts
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "messages", "messages", "{087EB0A6-E9FD-4CCC-B67A-14E4CBEFA27D}"
+	ProjectSection(SolutionItems) = preProject
+		client\src\app\messages\messages.component.css = client\src\app\messages\messages.component.css
+		client\src\app\messages\messages.component.html = client\src\app\messages\messages.component.html
+		client\src\app\messages\messages.component.ts = client\src\app\messages\messages.component.ts
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -106,6 +136,11 @@ Global
 		{F211010A-038A-43A5-8FF4-C465AEFDF230} = {0A0EC951-E632-45D2-8EED-11A41E99FA0B}
 		{7786731C-5441-4F9F-9E30-99D0BDCF1050} = {0A0EC951-E632-45D2-8EED-11A41E99FA0B}
 		{EE25E69A-AC60-48AD-916E-0E40D2CC1633} = {0A0EC951-E632-45D2-8EED-11A41E99FA0B}
+		{85956929-C0D9-427E-8C36-ABCD032AD089} = {0A0EC951-E632-45D2-8EED-11A41E99FA0B}
+		{65F0F03A-6B94-48DB-AE88-26C3F8468212} = {85956929-C0D9-427E-8C36-ABCD032AD089}
+		{5A091D4E-9A92-4C9C-861B-AAE518313251} = {85956929-C0D9-427E-8C36-ABCD032AD089}
+		{5F01A0A1-1E1E-4A1A-A6FE-A3E3FB03413C} = {0A0EC951-E632-45D2-8EED-11A41E99FA0B}
+		{087EB0A6-E9FD-4CCC-B67A-14E4CBEFA27D} = {0A0EC951-E632-45D2-8EED-11A41E99FA0B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3F91A275-4EF7-4DC8-81D9-9F2716B8D7F8}
