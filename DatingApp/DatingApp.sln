@@ -115,6 +115,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_guards", "_guards", "{FFE8
 		client\src\app\_guards\auth.guard.ts = client\src\app\_guards\auth.guard.ts
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_modules", "_modules", "{0158F94A-6750-418A-8FB1-A90C24F69C2F}"
+	ProjectSection(SolutionItems) = preProject
+		client\src\app\_modules\shared.module.ts = client\src\app\_modules\shared.module.ts
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +152,7 @@ Global
 		{5F01A0A1-1E1E-4A1A-A6FE-A3E3FB03413C} = {0A0EC951-E632-45D2-8EED-11A41E99FA0B}
 		{087EB0A6-E9FD-4CCC-B67A-14E4CBEFA27D} = {0A0EC951-E632-45D2-8EED-11A41E99FA0B}
 		{FFE86B0B-A5DF-4A6B-953B-FA4D94FAFBC8} = {0A0EC951-E632-45D2-8EED-11A41E99FA0B}
+		{0158F94A-6750-418A-8FB1-A90C24F69C2F} = {0A0EC951-E632-45D2-8EED-11A41E99FA0B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3F91A275-4EF7-4DC8-81D9-9F2716B8D7F8}
