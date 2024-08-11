@@ -120,6 +120,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_modules", "_modules", "{01
 		client\src\app\_modules\shared.module.ts = client\src\app\_modules\shared.module.ts
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "errors", "errors", "{CD0C50EF-2ADD-4426-AAAA-C527A5BC0199}"
+	ProjectSection(SolutionItems) = preProject
+		client\src\app\errors\test-error\test-error.component.css = client\src\app\errors\test-error\test-error.component.css
+		client\src\app\errors\test-error\test-error.component.html = client\src\app\errors\test-error\test-error.component.html
+		client\src\app\errors\test-error\test-error.component.ts = client\src\app\errors\test-error\test-error.component.ts
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +160,7 @@ Global
 		{087EB0A6-E9FD-4CCC-B67A-14E4CBEFA27D} = {0A0EC951-E632-45D2-8EED-11A41E99FA0B}
 		{FFE86B0B-A5DF-4A6B-953B-FA4D94FAFBC8} = {0A0EC951-E632-45D2-8EED-11A41E99FA0B}
 		{0158F94A-6750-418A-8FB1-A90C24F69C2F} = {0A0EC951-E632-45D2-8EED-11A41E99FA0B}
+		{CD0C50EF-2ADD-4426-AAAA-C527A5BC0199} = {0A0EC951-E632-45D2-8EED-11A41E99FA0B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3F91A275-4EF7-4DC8-81D9-9F2716B8D7F8}
