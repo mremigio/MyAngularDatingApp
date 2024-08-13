@@ -47,6 +47,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "app", "app", "{0A0EC951-E63
 		client\src\app\app.component.spec.ts = client\src\app\app.component.spec.ts
 		client\src\app\app.component.ts = client\src\app\app.component.ts
 		client\src\app\app.module.ts = client\src\app\app.module.ts
+		client\src\styles.css = client\src\styles.css
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "nav", "nav", "{2D7D1E5E-8DE4-44E8-A4A9-6D31DB5C58AF}"
@@ -121,11 +122,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_modules", "_modules", "{01
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "errors", "errors", "{CD0C50EF-2ADD-4426-AAAA-C527A5BC0199}"
-	ProjectSection(SolutionItems) = preProject
-		client\src\app\errors\test-error\test-error.component.css = client\src\app\errors\test-error\test-error.component.css
-		client\src\app\errors\test-error\test-error.component.html = client\src\app\errors\test-error\test-error.component.html
-		client\src\app\errors\test-error\test-error.component.ts = client\src\app\errors\test-error\test-error.component.ts
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_interceptors", "_interceptors", "{4B26D3F8-10D4-406A-B5B5-3EA8A74DBE27}"
 	ProjectSection(SolutionItems) = preProject
@@ -144,6 +140,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "server-error", "server-erro
 		client\src\app\errors\server-error\server-error.component.css = client\src\app\errors\server-error\server-error.component.css
 		client\src\app\errors\server-error\server-error.component.html = client\src\app\errors\server-error\server-error.component.html
 		client\src\app\errors\server-error\server-error.component.ts = client\src\app\errors\server-error\server-error.component.ts
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test-error", "test-error", "{C2A8D1B4-5DBF-435E-9703-C7252B8C710A}"
+	ProjectSection(SolutionItems) = preProject
+		client\src\app\errors\test-error\test-error.component.css = client\src\app\errors\test-error\test-error.component.css
+		client\src\app\errors\test-error\test-error.component.html = client\src\app\errors\test-error\test-error.component.html
+		client\src\app\errors\test-error\test-error.component.ts = client\src\app\errors\test-error\test-error.component.ts
 	EndProjectSection
 EndProject
 Global
@@ -183,6 +186,7 @@ Global
 		{4B26D3F8-10D4-406A-B5B5-3EA8A74DBE27} = {0A0EC951-E632-45D2-8EED-11A41E99FA0B}
 		{D57DC79C-BC5A-405E-AE07-DFC759A89971} = {CD0C50EF-2ADD-4426-AAAA-C527A5BC0199}
 		{D5FB2A5A-B42C-46E3-8862-9087D23433DC} = {CD0C50EF-2ADD-4426-AAAA-C527A5BC0199}
+		{C2A8D1B4-5DBF-435E-9703-C7252B8C710A} = {CD0C50EF-2ADD-4426-AAAA-C527A5BC0199}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3F91A275-4EF7-4DC8-81D9-9F2716B8D7F8}
