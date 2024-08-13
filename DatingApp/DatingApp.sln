@@ -132,6 +132,20 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_interceptors", "_intercept
 		client\src\app\_interceptors\error.interceptor.ts = client\src\app\_interceptors\error.interceptor.ts
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "not-found", "not-found", "{D57DC79C-BC5A-405E-AE07-DFC759A89971}"
+	ProjectSection(SolutionItems) = preProject
+		client\src\app\errors\not-found\not-found.component.css = client\src\app\errors\not-found\not-found.component.css
+		client\src\app\errors\not-found\not-found.component.html = client\src\app\errors\not-found\not-found.component.html
+		client\src\app\errors\not-found\not-found.component.ts = client\src\app\errors\not-found\not-found.component.ts
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "server-error", "server-error", "{D5FB2A5A-B42C-46E3-8862-9087D23433DC}"
+	ProjectSection(SolutionItems) = preProject
+		client\src\app\errors\server-error\server-error.component.css = client\src\app\errors\server-error\server-error.component.css
+		client\src\app\errors\server-error\server-error.component.html = client\src\app\errors\server-error\server-error.component.html
+		client\src\app\errors\server-error\server-error.component.ts = client\src\app\errors\server-error\server-error.component.ts
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -167,6 +181,8 @@ Global
 		{0158F94A-6750-418A-8FB1-A90C24F69C2F} = {0A0EC951-E632-45D2-8EED-11A41E99FA0B}
 		{CD0C50EF-2ADD-4426-AAAA-C527A5BC0199} = {0A0EC951-E632-45D2-8EED-11A41E99FA0B}
 		{4B26D3F8-10D4-406A-B5B5-3EA8A74DBE27} = {0A0EC951-E632-45D2-8EED-11A41E99FA0B}
+		{D57DC79C-BC5A-405E-AE07-DFC759A89971} = {CD0C50EF-2ADD-4426-AAAA-C527A5BC0199}
+		{D5FB2A5A-B42C-46E3-8862-9087D23433DC} = {CD0C50EF-2ADD-4426-AAAA-C527A5BC0199}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3F91A275-4EF7-4DC8-81D9-9F2716B8D7F8}
