@@ -19,7 +19,7 @@ namespace API.Entities
         public string Interests { get; set; } = string.Empty;
         public string City { get; set; } = string.Empty; 
         public string Country { get; set; } = string.Empty;
-        List<Photo> Photos = new();
+        List<Photo> Photos { get; set; } = new();
 
         public int GetAge()
         {
